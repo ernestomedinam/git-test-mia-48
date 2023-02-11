@@ -5,3 +5,11 @@ h1 {
 p {
     color: yellow;
 }
+
+.btn {
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+}
